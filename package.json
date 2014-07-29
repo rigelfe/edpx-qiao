@@ -1,0 +1,37 @@
+{
+  "name": "qiao-build",
+  "version": "0.1.0",
+  "description": "EDP extension for Qiao",
+  "contributors": [
+    {
+      "name": "treelite",
+      "email": "c.xinle@gmail.com"
+    },
+    {
+      "name": "okyping",
+      "email": "okyping@163.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rigelfe/edpx-qiao"
+  },
+  "dependencies": {
+    "esprima": "~1.0.2",
+    "escodegen": "~0.0.22",
+    "estraverse": "~1.1.1",
+    "mkdirp": "~0.3.5",
+    "uglify-js": "~2.3.6",
+    "MD5": "~1.1.0",
+    "edp-config": "~1.0.2",
+    "edp-build": "~1.0.13",
+    "edp-package": "~0.5.3",
+    "edp-project": "~0.6.1",
+    "edp-codegen": "~0.4.9",
+    "edp-core": "~1.0.28"
+  },
+  "bugs": {
+    "url": "https://github.com/rigelfe/edpx-qiao/issues"
+  },
+  "homepage": "https://github.com/rigelfe/edpx-qiao"
+}
